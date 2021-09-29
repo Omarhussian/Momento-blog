@@ -3,9 +3,9 @@
 ### This blog is built using Reactjs
 
 ## Steps to get it running:
-1- Fork this repo 
-2- npm install
-3- run the json server
+1- Fork this repo <br />
+2- npm install  <br />
+3- run the json server <br />
 4- to run at local just run npm start
 
 ##The home page
