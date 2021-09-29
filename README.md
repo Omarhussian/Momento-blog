@@ -2,7 +2,7 @@
 ![Momento - Blog](https://user-images.githubusercontent.com/26817538/135313297-0afe59ef-b9f0-4cbe-80dc-73d5a6a963b9.png)
 ### This blog is built using Reactjs
 
-##Steps to get it running:
+## Steps to get it running:
 1- Fork this repo 
 2- npm install
 3- run the json server
