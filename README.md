@@ -9,15 +9,18 @@
 4- to run at local just run npm start
 
 ##The home page
-![snip2](https://user-images.githubusercontent.com/26817538/135313718-942893d6-f957-4739-9124-925174f9545c.JPG)
+![momento1](https://user-images.githubusercontent.com/26817538/135314370-7ddcf93e-1d78-43e1-81cf-8b19c07e8060.JPG)
+
 
 u can find the the recent posts and u can add a new post by pressing New Blog
 
 ##adding new article page
-![snip1](https://user-images.githubusercontent.com/26817538/135313877-55ad6e06-3e6e-418e-91a3-6d1afab51cb5.JPG)
+![momento2](https://user-images.githubusercontent.com/26817538/135314405-14b05fe9-f061-4429-b41d-96a5458c1d10.JPG)
+
 
 u can add the article and choose the author 
 
 ## viewing the artice page
+![momento3](https://user-images.githubusercontent.com/26817538/135314434-99258030-3ba9-4e73-b44a-e86d23d7b083.JPG)
 
-![snip3](https://user-images.githubusercontent.com/26817538/135313970-23af12f0-2d8a-46a2-a77a-05c72d827131.JPG)
+
