@@ -8,13 +8,13 @@
 3- run the json server <br />
 4- to run at local just run npm start
 
-##The home page
+## The home page
 ![momento1](https://user-images.githubusercontent.com/26817538/135314370-7ddcf93e-1d78-43e1-81cf-8b19c07e8060.JPG)
 
 
 u can find the the recent posts and u can add a new post by pressing New Blog
 
-##adding new article page
+## adding new article page
 ![momento2](https://user-images.githubusercontent.com/26817538/135314405-14b05fe9-f061-4429-b41d-96a5458c1d10.JPG)
 
 
